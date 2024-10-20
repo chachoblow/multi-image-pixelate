@@ -1,1 +1,1 @@
-# multi-image-pixelsate
+# multi-image-pixelate
